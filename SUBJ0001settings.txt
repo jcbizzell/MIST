@@ -1,0 +1,28 @@
+Rest Enabled~1
+Control Enabled~1
+Experimental Enabled~1
+Rest Acquisitions~55
+Control Acquisitions~55
+Experimental Acquisitions~55
+Control Speed~7
+Order~1
+Repetitions~3
+Subject ID~SUBJ0001
+File Path~C:\Users\bizzell\Research\MIST\MIST
+File Name~SUBJ0001
+Scanner Signal~2
+Scanner Key~a
+Left Key~1
+Right Key~3
+Confirm Key~2
+Control Timeout~0
+N-Back Number~0
+Correct Feedback~CORRECT
+Incorrect Feedback~INCORRECT
+Recorded Feedback~RECORDED
+Not Recorded Feedback~NOT RECORDED
+Count DISDAQs~1
+DISDAQ Acquisitions~6
+Sound Enabled~1
+Childrens Version~0
+Experimental Condition Difficulty~5
